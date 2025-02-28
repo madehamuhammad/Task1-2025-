@@ -1,0 +1,7 @@
+C:\Users\nour_\source\repos\SelectionSortAlgorithm\bin\Debug\SelectionSortAlgorithm.exe.config
+C:\Users\nour_\source\repos\SelectionSortAlgorithm\bin\Debug\SelectionSortAlgorithm.exe
+C:\Users\nour_\source\repos\SelectionSortAlgorithm\bin\Debug\SelectionSortAlgorithm.pdb
+C:\Users\nour_\source\repos\SelectionSortAlgorithm\obj\Debug\SelectionSortAlgorithm.csproj.AssemblyReference.cache
+C:\Users\nour_\source\repos\SelectionSortAlgorithm\obj\Debug\SelectionSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\nour_\source\repos\SelectionSortAlgorithm\obj\Debug\SelectionSortAlgorithm.exe
+C:\Users\nour_\source\repos\SelectionSortAlgorithm\obj\Debug\SelectionSortAlgorithm.pdb
